@@ -653,7 +653,7 @@ DBUser=zabbix
 #
 # Mandatory: no
 # Default:
-DBPassword=Crile0529!
+DBPassword=<**********>
 
 ### Option: DBSocket
 #       Path to MySQL socket.
